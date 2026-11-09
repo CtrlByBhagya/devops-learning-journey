@@ -1,8 +1,10 @@
-COMMANDS PRACTICED
-mkdir- it makes the directory
-cd-it changes the directory
-ls - lists all the files and directories too
-ls -a - lists all the entries including hidden files and directories too
-ls -l -provides detailed information too
-pwd- shows the current location 
-cd .. - moves back to the main directory
+# Day1 - linux command
+
+## COMMANDS PRACTICED
+1. mkdir- it makes the directory
+2. cd-it changes the directory
+3. ls - lists all the files and directories too
+4. ls -a - lists all the entries including hidden files and directories too
+5. ls -l -provides detailed information too
+6. pwd- shows the current working directory
+7. cd .. - moves one level up to the parent directory
